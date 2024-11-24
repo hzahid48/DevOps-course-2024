@@ -33,4 +33,4 @@ Here’s a snapshot of the tools and practices I’ve been working with:
 ***
 
 ## **Sample CV**  
-You can view my full CV [here]()
+You can view my full CV [here](https://github.com/hzahid48/DevOps-course-2024/blob/main/Resume_HaniaZahid.pdf)
