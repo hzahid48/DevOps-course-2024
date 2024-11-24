@@ -70,7 +70,6 @@ DevOps practices revolve around automating processes such as building, testing, 
 ### Workflow Configuration:
 The following .github/workflows/ci-cd.yml file was created to automate the build and Docker image creation every time changes are pushed to the main branch:
 ```yaml
-Copy code
 name: CI/CD Pipeline
 
 on:
