@@ -28,7 +28,7 @@ Here’s a snapshot of the tools and practices I’ve been working with:
 ### **Tools & Technologies**  
 - **CI/CD Pipelines:** Streamlined workflows using **GitHub Actions** and **Jenkins** for continuous integration and deployment.  
 - **Containerization:** Deployed applications with **Docker** and orchestrated them using **Kubernetes**.  
-- **Infrastructure as Code (IaC):** Automated cloud infrastructure provisioning using **Terraform**   
+ 
 
 ***
 
