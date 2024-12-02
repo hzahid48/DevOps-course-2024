@@ -17,7 +17,6 @@ Throughout the course, I had the opportunity to work with essential DevOps tools
 - **Docker**: I learned how to containerize applications using Docker, which made it easier to develop, test, and deploy applications across different environments.
 - **Kubernetes**: I was introduced to Kubernetes, a powerful container orchestration tool, which helped in automating the deployment, scaling, and management of containerized applications.
 - **Terraform**: I explored Infrastructure as Code (IaC) with Terraform, which helped automate the provisioning and configuration of infrastructure.
-- **Jenkins**: Jenkins was used to set up continuous integration and delivery pipelines.
 
 ### Practical Experience and Contributions
 - **Hands-on Projects**: I implemented DevOps practices by creating and deploying a Java-based web application using Docker containers. I also automated the CI/CD pipeline with GitHub Actions, which streamlined the process of building, testing, and deploying the application. This setup ensures continuous integration and delivery, improving the overall workflow efficiency and speeding up deployment cycles.
@@ -30,7 +29,6 @@ Throughout the course, I had the opportunity to work with essential DevOps tools
 
 Despite the valuable learning experiences, several challenges are commonly encountered during the implementation of DevOps practices:
 
-- **Monitoring and Troubleshooting**: Setting up effective monitoring systems and troubleshooting issues in distributed environments can be time-consuming and complex, requiring significant effort to ensure systems run smoothly.
 - **Optimizing CI/CD Pipelines**: Building efficient CI/CD pipelines that minimize downtime, ensure testing accuracy, and optimize resource usage can be challenging. Achieving this requires a deep understanding of the software lifecycle and fine-tuning each stage of the pipeline.
 - **Kubernetes Scalability**: The complexity of Kubernetes increases when managing large clusters, especially when ensuring effective scaling across multiple environments. Integrating Kubernetes with cloud platforms further adds to the challenge.
 
